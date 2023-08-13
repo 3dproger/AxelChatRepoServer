@@ -10,13 +10,13 @@
 			"current": "USD"
 		}
 	}, {
-		"name": "Тайный незнакомец",
+		"name": "Secret stranger",
 		"type": "subscription",
 		"platform": "boosty",
 		"tier": {
-			"name": "Компаньон",
-			"price": "200",
-			"current": "RUB"
+			"name": "Assistant",
+			"price": "3",
+			"current": "USD"
 		}
 	}, {
 		"name": "Rocket Rider 256",
