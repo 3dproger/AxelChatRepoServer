@@ -1,0 +1,33 @@
+{
+	"version": "1.0.0",
+	"sponsors": [{
+		"name": "MrCoolBean",
+		"type": "subscription",
+		"platform": "patreon",
+		"tier": {
+			"title": "Companion",
+			"price": "5",
+			"current": "USD"
+		}
+	}, {
+		"name": "Тайный незнакомец",
+		"type": "subscription",
+		"platform": "boosty",
+		"tier": {
+			"title": "Компаньон",
+			"price": "200",
+			"current": "RUB"
+		}
+	}, {
+		"name": "Rocket Rider 256",
+		"type": "donation",
+		"platform": "unknown",
+		"donations": [{
+			"price": "4",
+			"current": "USD"
+		}, {
+			"price": "3",
+			"current": "USD"
+		}]
+	}]
+}
