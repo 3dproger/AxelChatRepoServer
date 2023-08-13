@@ -5,7 +5,7 @@
 		"type": "subscription",
 		"platform": "patreon",
 		"tier": {
-			"title": "Companion",
+			"name": "Companion",
 			"price": "5",
 			"current": "USD"
 		}
@@ -14,7 +14,7 @@
 		"type": "subscription",
 		"platform": "boosty",
 		"tier": {
-			"title": "Компаньон",
+			"name": "Компаньон",
 			"price": "200",
 			"current": "RUB"
 		}
