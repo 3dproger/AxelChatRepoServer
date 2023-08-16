@@ -1,0 +1,28 @@
+{
+	"version": "1.0.0",
+	"support_methods": [{
+			"name": "Patreon",
+			"possibilities": ["subscription"],
+			"icon": "qrc:/resources/images/patreon-icon.svg",
+			"url": "https://www.patreon.com/axel_k"
+		},
+		{
+			"name": "Boosty",
+			"possibilities": ["subscription", "donation"],
+			"icon": "qrc:/resources/images/boosty-icon.svg",
+			"url": "https://boosty.to/axel_k"
+		},
+		{
+			"name": "DonationAlerts",
+			"possibilities": ["donation"],
+			"icon": "qrc:/resources/images/donationalerts-icon.svg",
+			"url": "https://www.donationalerts.com/r/axel_k"
+		},
+		{
+			"name": "StreamElements",
+			"possibilities": ["donation"],
+			"icon": "qrc:/resources/images/streamelements-icon.png",
+			"url": "https://streamelements.com/axe1_k/tip"
+		}
+	]
+}
