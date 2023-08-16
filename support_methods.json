@@ -2,13 +2,13 @@
 	"version": "1.0.0",
 	"support_methods": [{
 			"name": "Patreon",
-			"possibilities": ["subscription"],
+			"possibilities": ["paid_subscription"],
 			"icon": "qrc:/resources/images/patreon-icon.svg",
 			"url": "https://www.patreon.com/axel_k"
 		},
 		{
 			"name": "Boosty",
-			"possibilities": ["subscription", "donation"],
+			"possibilities": ["paid_subscription", "donation"],
 			"icon": "qrc:/resources/images/boosty-icon.svg",
 			"url": "https://boosty.to/axel_k"
 		},
