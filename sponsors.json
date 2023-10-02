@@ -1,34 +1,62 @@
 {
-	"version": "1.0.0",
-	"sponsors": [],
-	"sponsors_example": [{
-		"name": "MrCoolBean",
-		"type": "subscription",
-		"platform": "patreon",
-		"tier": {
-			"name": "Companion",
-			"price": "5",
-			"current": "USD"
-		}
-	}, {
-		"name": "Secret stranger",
-		"type": "subscription",
-		"platform": "boosty",
-		"tier": {
-			"name": "Assistant",
-			"price": "3",
-			"current": "USD"
-		}
-	}, {
-		"name": "Rocket Rider 256",
-		"type": "donation",
-		"platform": "unknown",
-		"donations": [{
-			"price": "4",
-			"current": "USD"
-		}, {
-			"price": "3",
-			"current": "USD"
-		}]
-	}]
+    "version": "1.0.0",
+    "sponsors": [
+        {
+            "name": "Flasher Special",
+            "type": "subscription",
+            "platform": "patreon",
+            "tier": {
+                "name": "Companion",
+                "price": "5",
+                "current": "USD"
+            }
+        },
+        {
+            "name": "Rocket Raccoon",
+            "type": "subscription",
+            "platform": "patreon",
+            "tier": {
+                "name": "Companion",
+                "price": "5",
+                "current": "USD"
+            }
+        }
+    ],
+    "sponsors_example": [
+        {
+            "name": "MrCoolBean",
+            "type": "subscription",
+            "platform": "patreon",
+            "tier": {
+                "name": "Companion",
+                "price": "5",
+                "current": "USD"
+            }
+        },
+        {
+            "name": "Secret stranger",
+            "type": "subscription",
+            "platform": "boosty",
+            "tier": {
+                "name": "Assistant",
+                "price": "3",
+                "current": "USD"
+            }
+        },
+        {
+            "name": "Rocket Rider 256",
+            "type": "donation",
+            "platform": "unknown",
+            "donations": [
+                {
+                    "price": "4",
+                    "current": "USD"
+                },
+                {
+                    "price": "3",
+                    "current": "USD"
+                }
+            ]
+        }
+    ]
 }
