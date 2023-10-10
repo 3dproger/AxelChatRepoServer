@@ -1,26 +1,6 @@
 {
     "version": "1.0.0",
     "sponsors": [
-        {
-            "name": "Flasher Special",
-            "type": "subscription",
-            "platform": "patreon",
-            "tier": {
-                "name": "Companion",
-                "price": "5",
-                "current": "USD"
-            }
-        },
-        {
-            "name": "Rocket Raccoon",
-            "type": "subscription",
-            "platform": "patreon",
-            "tier": {
-                "name": "Companion",
-                "price": "5",
-                "current": "USD"
-            }
-        }
     ],
     "sponsors_example": [
         {
