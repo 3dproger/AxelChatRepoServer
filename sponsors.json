@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
-    "sponsors_example": [
-    ],
     "sponsors": [
+    ],
+    "sponsors_example": [
         {
             "name": "MrCoolBean",
             "type": "subscription",
