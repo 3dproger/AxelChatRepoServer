@@ -1,6 +1,17 @@
 {
     "version": "1.0.0",
     "sponsors": [
+        {
+            "name": "AJ_Maker",
+            "type": "donation",
+            "platform": "donationalerts",
+            "donations": [
+                {
+                    "price": "1000",
+                    "current": "RUB"
+                }
+            ]
+        }
     ],
     "sponsors_example": [
         {
