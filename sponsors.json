@@ -1,6 +1,17 @@
 {
     "version": "1.0.0",
     "sponsors": [
+        {
+            "name": "Anonymous",
+            "type": "donation",
+            "platform": "donationalerts",
+            "donations": [
+                {
+                    "price": "20",
+                    "current": "USD"
+                }
+            ]
+        }
     ],
     "sponsors_example": [
         {
