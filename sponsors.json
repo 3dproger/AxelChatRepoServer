@@ -1,28 +1,6 @@
 {
     "version": "1.0.0",
     "sponsors": [
-        {
-            "name": "SpacemannFinn",
-            "type": "donation",
-            "platform": "donationalerts",
-            "donations": [
-                {
-                    "price": "20",
-                    "current": "EUR"
-                }
-            ]
-        },
-        {
-            "name": "AJ_Maker",
-            "type": "donation",
-            "platform": "donationalerts",
-            "donations": [
-                {
-                    "price": "1000",
-                    "current": "RUB"
-                }
-            ]
-        }
     ],
     "sponsors_example": [
         {
