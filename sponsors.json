@@ -1,27 +1,6 @@
 {
     "version": "1.0.0",
-    "sponsors": [
-        {
-            "name": "MrCoolBean",
-            "type": "subscription",
-            "platform": "patreon",
-            "tier": {
-                "name": "Companion",
-                "price": "5",
-                "current": "USD"
-            }
-        },
-        {
-            "name": "Secret stranger",
-            "type": "subscription",
-            "platform": "boosty",
-            "tier": {
-                "name": "Assistant",
-                "price": "3",
-                "current": "USD"
-            }
-        }
-    ],
+    "sponsors": [],
     "sponsors_example": [
         {
             "name": "MrCoolBean",
