@@ -1,6 +1,18 @@
 {
     "version": "1.0.0",
-    "sponsors": [],
+    "sponsors": [
+        {
+            "name": "pi14cyber",
+            "type": "donation",
+            "platform": "unknown",
+            "donations": [
+                {
+                    "price": "5",
+                    "current": "USD"
+                }
+            ]
+        }
+    ],
     "sponsors_example": [
         {
             "name": "MrCoolBean",
