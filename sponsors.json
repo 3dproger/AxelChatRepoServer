@@ -2,6 +2,17 @@
     "version": "1.0.0",
     "sponsors": [
         {
+            "name": "Chris \"SpecVengeance\" Graser",
+            "type": "donation",
+            "platform": "unknown",
+            "donations": [
+                {
+                    "price": "50",
+                    "current": "USD"
+                }
+            ]
+        },
+        {
             "name": "pi14cyber",
             "type": "donation",
             "platform": "unknown",
