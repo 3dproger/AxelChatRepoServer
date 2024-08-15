@@ -7,7 +7,18 @@
             "platform": "unknown",
             "donations": [
                 {
-                    "price": "50",
+                    "price": "-1",
+                    "current": "USD"
+                }
+            ]
+        },
+        {
+            "name": "fightingsloth",
+            "type": "donation",
+            "platform": "unknown",
+            "donations": [
+                {
+                    "price": "-1",
                     "current": "USD"
                 }
             ]
@@ -18,7 +29,7 @@
             "platform": "unknown",
             "donations": [
                 {
-                    "price": "5",
+                    "price": "-1",
                     "current": "USD"
                 }
             ]
