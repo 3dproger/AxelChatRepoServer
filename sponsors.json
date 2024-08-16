@@ -6,7 +6,7 @@
             "type": "donation",
             "amount": {
                 "value": 50,
-                "current": "USD",
+                "currency": "USD",
                 "approx": false
             }
         },
@@ -15,7 +15,7 @@
             "type": "donation",
             "amount": {
                 "value": 20,
-                "current": "USD",
+                "currency": "USD",
                 "approx": false
             }
         },
@@ -24,7 +24,7 @@
             "type": "donation",
             "amount": {
                 "value": 12,
-                "current": "USD",
+                "currency": "USD",
                 "approx": true
             }
         },
@@ -33,7 +33,7 @@
             "type": "donation",
             "amount": {
                 "value": 10,
-                "current": "USD",
+                "currency": "USD",
                 "approx": false
             }
         },
@@ -42,46 +42,20 @@
             "type": "donation",
             "amount": {
                 "value": 5.7,
-                "current": "USD",
+                "currency": "USD",
                 "approx": true
             }
         }
     ],
     "sponsors_example": [
         {
-            "name": "MrCoolBean",
-            "type": "subscription",
-            "platform": "patreon",
-            "tier": {
-                "name": "Companion",
-                "price": "5",
-                "current": "USD"
-            }
-        },
-        {
-            "name": "Secret stranger",
-            "type": "subscription",
-            "platform": "boosty",
-            "tier": {
-                "name": "Assistant",
-                "price": "3",
-                "current": "USD"
-            }
-        },
-        {
-            "name": "Rocket Rider 256",
+            "name": "someone",
             "type": "donation",
-            "platform": "unknown",
-            "donations": [
-                {
-                    "price": "4",
-                    "current": "USD"
-                },
-                {
-                    "price": "3",
-                    "current": "USD"
-                }
-            ]
+            "amount": {
+                "value": 10,
+                "currency": "USD",
+                "approx": false
+            }
         }
     ]
 }
