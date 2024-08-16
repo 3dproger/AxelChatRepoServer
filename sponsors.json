@@ -2,21 +2,21 @@
     "version": "1.0.0",
     "sponsors": [
         {
-            "name": "fightingsloth",
+            "name": "Chris \"SpecVengeance\" Graser",
             "type": "donation",
             "platform": "unknown",
             "amount": {
-                "value": "-1",
+                "value": 50,
                 "current": "USD",
                 "approx": false
             }
         },
         {
-            "name": "Chris \"SpecVengeance\" Graser",
+            "name": "fightingsloth",
             "type": "donation",
             "platform": "unknown",
             "amount": {
-                "value": "-1",
+                "value": 10,
                 "current": "USD",
                 "approx": false
             }
@@ -26,9 +26,9 @@
             "type": "donation",
             "platform": "unknown",
             "amount": {
-                "value": "-1",
+                "value": 5.7,
                 "current": "USD",
-                "approx": false
+                "approx": true
             }
         }
     ],
