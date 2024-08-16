@@ -4,7 +4,6 @@
         {
             "name": "Chris \"SpecVengeance\" Graser",
             "type": "donation",
-            "platform": "unknown",
             "amount": {
                 "value": 50,
                 "current": "USD",
@@ -12,9 +11,26 @@
             }
         },
         {
+            "name": "SpacemannFinn",
+            "type": "donation",
+            "amount": {
+                "value": 20,
+                "current": "USD",
+                "approx": false
+            }
+        },
+        {
+            "name": "AJ_Maker",
+            "type": "donation",
+            "amount": {
+                "value": 12,
+                "current": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "fightingsloth",
             "type": "donation",
-            "platform": "unknown",
             "amount": {
                 "value": 10,
                 "current": "USD",
@@ -24,7 +40,6 @@
         {
             "name": "pi14cyber",
             "type": "donation",
-            "platform": "unknown",
             "amount": {
                 "value": 5.7,
                 "current": "USD",
