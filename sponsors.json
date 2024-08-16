@@ -5,34 +5,31 @@
             "name": "fightingsloth",
             "type": "donation",
             "platform": "unknown",
-            "donations": [
-                {
-                    "price": "-1",
-                    "current": "USD"
-                }
-            ]
+            "amount": {
+                "value": "-1",
+                "current": "USD",
+                "approx": false
+            }
         },
         {
             "name": "Chris \"SpecVengeance\" Graser",
             "type": "donation",
             "platform": "unknown",
-            "donations": [
-                {
-                    "price": "-1",
-                    "current": "USD"
-                }
-            ]
+            "amount": {
+                "value": "-1",
+                "current": "USD",
+                "approx": false
+            }
         },
         {
             "name": "pi14cyber",
             "type": "donation",
             "platform": "unknown",
-            "donations": [
-                {
-                    "price": "-1",
-                    "current": "USD"
-                }
-            ]
+            "amount": {
+                "value": "-1",
+                "current": "USD",
+                "approx": false
+            }
         }
     ],
     "sponsors_example": [
