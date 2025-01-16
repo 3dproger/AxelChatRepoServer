@@ -45,6 +45,15 @@
                 "currency": "USD",
                 "approx": true
             }
+        },
+        {
+            "name": "Anonymous",
+            "type": "donation",
+            "amount": {
+                "value": 37,
+                "currency": "TRY",
+                "approx": false
+            }
         }
     ],
     "sponsors_example": [
