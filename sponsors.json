@@ -38,6 +38,15 @@
             }
         },
         {
+            "name": "sp0nkey",
+            "type": "donation",
+            "amount": {
+                "value": 9.7,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "pi14cyber",
             "type": "donation",
             "amount": {
@@ -53,15 +62,6 @@
                 "value": 37,
                 "currency": "TRY",
                 "approx": false
-            }
-        },
-        {
-            "name": "sp0nkey",
-            "type": "donation",
-            "amount": {
-                "value": 10,
-                "currency": "USD",
-                "approx": true
             }
         }
     ],
