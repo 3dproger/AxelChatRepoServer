@@ -54,6 +54,15 @@
                 "currency": "TRY",
                 "approx": false
             }
+        },
+        {
+            "name": "sp0nkey",
+            "type": "donation",
+            "amount": {
+                "value": 10,
+                "currency": "USD",
+                "approx": true
+            }
         }
     ],
     "sponsors_example": [
