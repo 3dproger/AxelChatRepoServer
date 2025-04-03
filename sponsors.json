@@ -56,23 +56,21 @@
             }
         },
         {
+            "name": "HUMBUCKER",
+            "type": "donation",
+            "amount": {
+                "value": 1.18,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "Anonymous",
             "type": "donation",
             "amount": {
-                "value": 37,
-                "currency": "TRY",
-                "approx": false
-            }
-        }
-    ],
-    "sponsors_example": [
-        {
-            "name": "someone",
-            "type": "donation",
-            "amount": {
-                "value": 10,
+                "value": 1,
                 "currency": "USD",
-                "approx": false
+                "approx": true
             }
         }
     ]
