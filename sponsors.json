@@ -29,6 +29,15 @@
             }
         },
         {
+            "name": "KventinBurratino",
+            "type": "donation",
+            "amount": {
+                "value": 12.75,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "AJ_Maker",
             "type": "donation",
             "amount": {
