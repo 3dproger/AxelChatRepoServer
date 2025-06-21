@@ -65,6 +65,15 @@
             }
         },
         {
+            "name": "iPolly",
+            "type": "donation",
+            "amount": {
+                "value": 6.4,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "pi14cyber",
             "type": "donation",
             "amount": {
