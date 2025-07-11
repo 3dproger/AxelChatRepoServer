@@ -29,6 +29,15 @@
             }
         },
         {
+            "name": "Блейз",
+            "type": "donation",
+            "amount": {
+                "value": 18.82,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "KventinBurratino",
             "type": "donation",
             "amount": {
