@@ -11,6 +11,15 @@
             }
         },
         {
+            "name": "Блейз",
+            "type": "donation",
+            "amount": {
+                "value": 25.07,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "RATATOscr",
             "type": "donation",
             "amount": {
@@ -26,15 +35,6 @@
                 "value": 20,
                 "currency": "USD",
                 "approx": false
-            }
-        },
-        {
-            "name": "Блейз",
-            "type": "donation",
-            "amount": {
-                "value": 18.82,
-                "currency": "USD",
-                "approx": true
             }
         },
         {
