@@ -92,19 +92,19 @@
             }
         },
         {
-            "name": "HUMBUCKER",
+            "name": "Anonymous",
             "type": "donation",
             "amount": {
-                "value": 1.18,
+                "value": 2.19,
                 "currency": "USD",
                 "approx": true
             }
         },
         {
-            "name": "Anonymous",
+            "name": "HUMBUCKER",
             "type": "donation",
             "amount": {
-                "value": 1,
+                "value": 1.18,
                 "currency": "USD",
                 "approx": true
             }
