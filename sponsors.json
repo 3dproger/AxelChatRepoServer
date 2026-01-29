@@ -92,6 +92,15 @@
             }
         },
         {
+            "name": "DisKoNneK TV",
+            "type": "donation",
+            "amount": {
+                "value": 3.9,
+                "currency": "USD",
+                "approx": true
+            }
+        },
+        {
             "name": "Zigarot",
             "type": "donation",
             "amount": {
