@@ -1,131 +1,140 @@
 {
-    "version": "1.0.0",
-    "sponsors": [
-        {
-            "name": "Chris \"SpecVengeance\" Graser",
-            "type": "donation",
-            "amount": {
-                "value": 50,
-                "currency": "USD",
-                "approx": false
-            }
-        },
-        {
-            "name": "Блейз",
-            "type": "donation",
-            "amount": {
-                "value": 25.07,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "RATATOscr",
-            "type": "donation",
-            "amount": {
-                "value": 22,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "SpacemannFinn",
-            "type": "donation",
-            "amount": {
-                "value": 20,
-                "currency": "USD",
-                "approx": false
-            }
-        },
-        {
-            "name": "KventinBurratino",
-            "type": "donation",
-            "amount": {
-                "value": 12.75,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "AJ_Maker",
-            "type": "donation",
-            "amount": {
-                "value": 12,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "fightingsloth",
-            "type": "donation",
-            "amount": {
-                "value": 10,
-                "currency": "USD",
-                "approx": false
-            }
-        },
-        {
-            "name": "sp0nkey",
-            "type": "donation",
-            "amount": {
-                "value": 9.7,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "iPolly",
-            "type": "donation",
-            "amount": {
-                "value": 6.4,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "pi14cyber",
-            "type": "donation",
-            "amount": {
-                "value": 5.7,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "DisKoNneK TV",
-            "type": "donation",
-            "amount": {
-                "value": 3.9,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "Zigarot",
-            "type": "donation",
-            "amount": {
-                "value": 2.6,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "Anonymous",
-            "type": "donation",
-            "amount": {
-                "value": 2.19,
-                "currency": "USD",
-                "approx": true
-            }
-        },
-        {
-            "name": "HUMBUCKER",
-            "type": "donation",
-            "amount": {
-                "value": 1.18,
-                "currency": "USD",
-                "approx": true
-            }
-        }
-    ]
+  "version": "1.0.0",
+  "sponsors": [
+    {
+      "name": "Алекса",
+      "type": "donation",
+      "amount": {
+        "value": 63,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
+      "name": "Chris \"SpecVengeance\" Graser",
+      "type": "donation",
+      "amount": {
+        "value": 50,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
+      "name": "Блейз",
+      "type": "donation",
+      "amount": {
+        "value": 25.07,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "RATATOscr",
+      "type": "donation",
+      "amount": {
+        "value": 22,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "SpacemannFinn",
+      "type": "donation",
+      "amount": {
+        "value": 20,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
+      "name": "KventinBurratino",
+      "type": "donation",
+      "amount": {
+        "value": 12.75,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "AJ_Maker",
+      "type": "donation",
+      "amount": {
+        "value": 12,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "fightingsloth",
+      "type": "donation",
+      "amount": {
+        "value": 10,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
+      "name": "sp0nkey",
+      "type": "donation",
+      "amount": {
+        "value": 9.7,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "iPolly",
+      "type": "donation",
+      "amount": {
+        "value": 6.4,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "pi14cyber",
+      "type": "donation",
+      "amount": {
+        "value": 5.7,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "DisKoNneK TV",
+      "type": "donation",
+      "amount": {
+        "value": 3.9,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "Zigarot",
+      "type": "donation",
+      "amount": {
+        "value": 2.6,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "Anonymous",
+      "type": "donation",
+      "amount": {
+        "value": 2.19,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
+      "name": "HUMBUCKER",
+      "type": "donation",
+      "amount": {
+        "value": 1.18,
+        "currency": "USD",
+        "approx": true
+      }
+    }
+  ]
 }
