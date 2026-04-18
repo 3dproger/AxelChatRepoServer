@@ -128,6 +128,15 @@
       }
     },
     {
+      "name": "YgaB",
+      "type": "donation",
+      "amount": {
+        "value": 1.31,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
       "name": "HUMBUCKER",
       "type": "donation",
       "amount": {
