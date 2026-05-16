@@ -65,6 +65,15 @@
       }
     },
     {
+      "name": "JDub GameNPlay",
+      "type": "donation",
+      "amount": {
+        "value": 10,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
       "name": "fightingsloth",
       "type": "donation",
       "amount": {
