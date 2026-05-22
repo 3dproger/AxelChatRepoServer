@@ -92,6 +92,15 @@
       }
     },
     {
+      "name": "Радио Саня",
+      "type": "donation",
+      "amount": {
+        "value": 7,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
       "name": "iPolly",
       "type": "donation",
       "amount": {
