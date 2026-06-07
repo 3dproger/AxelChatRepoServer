@@ -2,6 +2,15 @@
   "version": "1.0.0",
   "sponsors": [
     {
+      "name": "Василий Наумкин",
+      "type": "donation",
+      "amount": {
+        "value": 136,
+        "currency": "USD",
+        "approx": false
+      }
+    },
+    {
       "name": "alexxa69420",
       "type": "donation",
       "amount": {
