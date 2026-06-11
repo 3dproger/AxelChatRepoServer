@@ -56,6 +56,15 @@
       }
     },
     {
+      "name": "WindOriuM",
+      "type": "donation",
+      "amount": {
+        "value": 14.00,
+        "currency": "USD",
+        "approx": true
+      }
+    },
+    {
       "name": "KventinBurratino",
       "type": "donation",
       "amount": {
