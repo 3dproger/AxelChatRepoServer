@@ -149,7 +149,7 @@
       "name": "Zigarot",
       "type": "donation",
       "amount": {
-        "value": 2.6,
+        "value": 5.0,
         "currency": "USD",
         "approx": true
       }
