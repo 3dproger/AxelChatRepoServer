@@ -173,6 +173,14 @@
       }
     },
     {
+      "name": "Serjio1",
+      "type": "donation",
+      "amount": {
+        "value": 1.18,
+        "currency": "USD",
+        "approx": true
+      },
+    {
       "name": "HUMBUCKER",
       "type": "donation",
       "amount": {
