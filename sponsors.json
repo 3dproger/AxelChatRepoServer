@@ -181,6 +181,24 @@
 			}
 		},
 		{
+			"name": "AntonBaranov ",
+			"type": "donation",
+			"amount": {
+				"value": 5,
+				"currency": "USD",
+				"approx": false
+			}
+		},
+		{
+			"name": "Кощка ТВ",
+			"type": "donation",
+			"amount": {
+				"value": 1.22,
+				"currency": "USD",
+				"approx": true
+			}
+		},
+		{
 			"name": "HUMBUCKER",
 			"type": "donation",
 			"amount": {
